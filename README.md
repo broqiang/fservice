@@ -10,7 +10,6 @@
 直接在 [github下载](https://github.com/broqiang/fservice/releases/download/v1.0.0/fservice)
 编译好的可执行文件就可以直接使用。
 
-
 ## 编译，快速使用
 
 > 需要本地有 go 环境
